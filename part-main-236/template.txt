@@ -1,0 +1,177 @@
+﻿<div data-cms-part="step" data-cms-step-max="10" data-cms-id="1" data-parts-name="part-main-236 v12" class="ex-style_01A1 mod-part-list">
+<div data-cms-id="2" class="mod-box-inner">
+<div data-cms-id="3" class="mod-box-inner2" data-cms-element-group="">
+<div data-cms-id="4" class="mod-set-h2" data-cms-switchable="false" data-cms-switchable-label="セット（最上部）" data-cms-switchable-group="上部の要素" data-cms-element-group="">
+<div data-cms-id="5" class="mod-h_2_ver2" data-cms-editable="heading" data-cms-editable-heading="A" data-cms-switchable="false" data-cms-switchable-label="大見出し" data-cms-switchable-group="上部の要素">
+<i data-cms-id="6" class="mod-icon_1"></i>
+<h2 data-cms-id="7" class="mod-h" contenteditable="true">大見出し</h2>
+</div>
+<div data-cms-id="8" class="mod-rte_ver2" data-cms-editable="wysiwyg" contenteditable="true" data-cms-switchable="false" data-cms-switchable-label="文章（最上部）" data-cms-switchable-group="上部の要素">
+<p>あいうえおかきくけこさしすせそたちつてとなにぬねのはひふへほまみむめもやゃゆゅよらりるれろわ・を・んアイウエオカキクケコサシスセソタチツテトナニヌネノハヒフヘホマミムメモヤャユュヨララリルレロワ・ヲ・ン</p>
+</div>
+</div>
+<script type="text/x-template">
+<div class="step<%- step_number %>" data-cms-switchable="true" data-cms-switchable-label="ステップ<%- step_number %>" data-cms-switchable-group="ステップ<%- step_number %>" data-cms-element-group="" data-cms-id="1-<%- step_number %>">
+<div data-cms-id="2-<%- step_number %>" class="mod-set-h3" data-cms-switchable="false" data-cms-switchable-label="セット1" data-cms-switchable-group="基本の要素" data-cms-element-group="">
+<div data-cms-id="3-<%- step_number %>" class="mod-h_3_ver2" data-cms-editable="heading" data-cms-editable-heading="B" data-cms-switchable="false" data-cms-switchable-label="中見出し" data-cms-switchable-group="基本の要素">
+<i data-cms-id="4-<%- step_number %>" class="mod-icon_1"></i>
+<h3 data-cms-id="5-<%- step_number %>" class="mod-h" contenteditable="true">中見出し</h3>
+</div>
+<div data-cms-id="6-<%- step_number %>" class="mod-rte_ver2" data-cms-editable="wysiwyg" contenteditable="true" data-cms-switchable="false" data-cms-switchable-label="文章1" data-cms-switchable-group="基本の要素">
+<p>あいうえおかきくけこさしすせそたちつてとなにぬねのはひふへほまみむめもやゃゆゅよらりるれろわ・を・んアイウエオカキクケコサシスセソタチツテトナニヌネノハヒフヘホマミムメモヤャユュヨララリルレロワ・ヲ・ン</p>
+</div>
+</div>
+<div data-cms-id="7-<%- step_number %>" class="mod-set-design" data-cms-switchable="true" data-cms-switchable-label="セット2" data-cms-switchable-group="基本の要素" data-cms-element-group="">
+<div data-cms-switchable-line="" data-cms-id="8-<%- step_number %>" class="mod-h_5_list_top" data-cms-editable="heading" data-cms-editable-heading="G" data-cms-switchable="false" data-cms-switchable-label="箇条書き見出し（上）" data-cms-switchable-group="基本の要素">
+<i data-cms-id="9-<%- step_number %>" class="mod-icon_1"></i>
+<h5 data-cms-id="10-<%- step_number %>" class="mod-h" contenteditable="true">箇条書き見出し</h5>
+</div>
+<div data-cms-editable-wysiwyg="list" data-cms-id="11-<%- step_number %>" class="mod-ul_ver2" data-cms-switchable="true" data-cms-switchable-label="箇条書き" data-cms-switchable-group="基本の要素">
+<div data-cms-id="36-<%- step_number %>" class="mod-ul-inner">
+<div data-cms-id="37-<%- step_number %>" class="mod-ul-inner2" data-cms-editable="wysiwyg" contenteditable="true">
+<ul>
+<li>ここを書き換えてください</li>
+<li>文字を消したい場合は「BackSpace」キーを押してください</li>
+<li>「Delete」キーを押すと、行ごとなくなる場合があります</li>
+<li>不要な行は、アイコンごと削除してください</li>
+<li>「Enter」キーを押すと行が増えます</li>
+</ul>
+</div>
+</div>
+</div>
+<p data-cms-id="12-<%- step_number %>" class="mod-text-list" data-cms-editable="text" contenteditable="true" data-cms-switchable="false" data-cms-switchable-label="箇条書き下説明" data-cms-switchable-group="基本の要素">箇条書きの説明を入力してください（フォントが小さく設定された文章です）</p>
+</div>
+<div data-cms-id="13-<%- step_number %>" class="mod-rte_ver2" data-cms-editable="wysiwyg" contenteditable="true" data-cms-switchable="false" data-cms-switchable-label="文章2" data-cms-switchable-group="基本の要素">
+<p>あいうえおかきくけこさしすせそたちつてとなにぬねのはひふへほまみむめもやゃゆゅよらりるれろわ・を・んアイウエオカキクケコサシスセソタチツテトナニヌネノハヒフヘホマミムメモヤャユュヨララリルレロワ・ヲ・ン</p>
+</div>
+<div data-cms-switchable-line="" data-cms-editable-banner="A" data-cms-id="14-<%- step_number %>" class="mod-bnr_ver2 ex-align-left" data-cms-switchable="false" data-cms-switchable-label="【左】バナー" data-cms-switchable-group="基本の要素">
+<div data-cms-id="15-<%- step_number %>" class="mod-bnr-inner" data-cms-editable="banner">
+<p data-cms-editable="text" contenteditable="true" data-cms-id="16-<%- step_number %>">詳細はこちらをクリック</p>
+</div>
+</div>
+<div data-cms-editable-link="B" data-cms-id="17-<%- step_number %>" class="mod-link-1st ex-align-left" data-cms-switchable="true" data-cms-switchable-label="【左】誘導リンク（上）" data-cms-switchable-group="基本の要素">
+<div data-cms-id="38-<%- step_number %>" class="mod-link-inner" data-cms-editable="banner">
+<p data-cms-editable="text" contenteditable="true" data-cms-id="18-<%- step_number %>">詳しくはこちらをクリック</p>
+</div>
+</div>
+<div data-cms-editable-link="B" data-cms-id="19-<%- step_number %>" class="mod-link-2nd ex-align-left" data-cms-switchable="false" data-cms-switchable-label="【左】誘導リンク（下）" data-cms-switchable-group="基本の要素">
+<div data-cms-id="39-<%- step_number %>" class="mod-link-inner" data-cms-editable="banner">
+<p data-cms-editable="text" contenteditable="true" data-cms-id="20-<%- step_number %>">詳しくはこちらをクリック</p>
+</div>
+</div>
+<div data-cms-switchable-line="" data-cms-editable-banner="A" data-cms-id="21-<%- step_number %>" class="mod-bnr_ver2 ex-align-center" data-cms-switchable="false" data-cms-switchable-label="【中】バナー" data-cms-switchable-group="基本の要素">
+<div data-cms-id="22-<%- step_number %>" class="mod-bnr-inner" data-cms-editable="banner">
+<p data-cms-editable="text" contenteditable="true" data-cms-id="23-<%- step_number %>">詳細はこちらをクリック</p>
+</div>
+</div>
+<div data-cms-editable-link="B" data-cms-id="24-<%- step_number %>" class="mod-link-1st ex-align-center" data-cms-switchable="false" data-cms-switchable-label="【中】誘導リンク（上）" data-cms-switchable-group="基本の要素">
+<div data-cms-id="40-<%- step_number %>" class="mod-link-inner" data-cms-editable="banner">
+<p data-cms-editable="text" contenteditable="true" data-cms-id="25-<%- step_number %>">詳しくはこちらをクリック</p>
+</div>
+</div>
+<div data-cms-editable-link="B" data-cms-id="26-<%- step_number %>" class="mod-link-2nd ex-align-center" data-cms-switchable="false" data-cms-switchable-label="【中】誘導リンク（下）" data-cms-switchable-group="基本の要素">
+<div data-cms-id="41-<%- step_number %>" class="mod-link-inner" data-cms-editable="banner">
+<p data-cms-editable="text" contenteditable="true" data-cms-id="27-<%- step_number %>">詳しくはこちらをクリック</p>
+</div>
+</div>
+<div data-cms-switchable-line="" data-cms-editable-banner="A" data-cms-id="28-<%- step_number %>" class="mod-bnr_ver2 ex-align-right" data-cms-switchable="false" data-cms-switchable-label="【右】バナー" data-cms-switchable-group="基本の要素">
+<div data-cms-id="29-<%- step_number %>" class="mod-bnr-inner" data-cms-editable="banner">
+<p data-cms-editable="text" contenteditable="true" data-cms-id="30-<%- step_number %>">詳細はこちらをクリック</p>
+</div>
+</div>
+<div data-cms-editable-link="B" data-cms-id="31-<%- step_number %>" class="mod-link-1st ex-align-right" data-cms-switchable="false" data-cms-switchable-label="【右】誘導リンク（上）" data-cms-switchable-group="基本の要素">
+<div data-cms-id="42-<%- step_number %>" class="mod-link-inner" data-cms-editable="banner">
+<p data-cms-editable="text" contenteditable="true" data-cms-id="32-<%- step_number %>">詳しくはこちらをクリック</p>
+</div>
+</div>
+<div data-cms-editable-link="B" data-cms-id="33-<%- step_number %>" class="mod-link-2nd ex-align-right" data-cms-switchable="false" data-cms-switchable-label="【右】誘導リンク（下）" data-cms-switchable-group="基本の要素">
+<div data-cms-id="43-<%- step_number %>" class="mod-link-inner" data-cms-editable="banner">
+<p data-cms-editable="text" contenteditable="true" data-cms-id="34-<%- step_number %>">詳しくはこちらをクリック</p>
+</div>
+</div>
+</div>
+</script>
+<div data-cms-step="" data-cms-id="9" class="mod-set-step" data-cms-switchable="true" data-cms-switchable-label="親ステップ" data-cms-switchable-group="親ステップ" data-cms-element-group="">
+<div class="step1" data-cms-switchable="true" data-cms-switchable-label="ステップ1" data-cms-switchable-group="ステップ1" data-cms-element-group="" data-cms-id="1-1">
+<div data-cms-id="2-1" class="mod-set-h3" data-cms-switchable="false" data-cms-switchable-label="セット1" data-cms-switchable-group="基本の要素" data-cms-element-group="">
+<div data-cms-id="3-1" class="mod-h_3_ver2" data-cms-editable="heading" data-cms-editable-heading="B" data-cms-switchable="false" data-cms-switchable-label="中見出し" data-cms-switchable-group="基本の要素">
+<i data-cms-id="4-1" class="mod-icon_1"></i>
+<h3 data-cms-id="5-1" class="mod-h" contenteditable="true">中見出し</h3>
+</div>
+<div data-cms-id="6-1" class="mod-rte_ver2" data-cms-editable="wysiwyg" contenteditable="true" data-cms-switchable="false" data-cms-switchable-label="文章1" data-cms-switchable-group="基本の要素">
+<p>あいうえおかきくけこさしすせそたちつてとなにぬねのはひふへほまみむめもやゃゆゅよらりるれろわ・を・んアイウエオカキクケコサシスセソタチツテトナニヌネノハヒフヘホマミムメモヤャユュヨララリルレロワ・ヲ・ン</p>
+</div>
+</div>
+<div data-cms-id="7-1" class="mod-set-design" data-cms-switchable="true" data-cms-switchable-label="セット2" data-cms-switchable-group="基本の要素" data-cms-element-group="">
+<div data-cms-switchable-line="" data-cms-id="8-1" class="mod-h_5_list_top" data-cms-editable="heading" data-cms-editable-heading="G" data-cms-switchable="false" data-cms-switchable-label="箇条書き見出し（上）" data-cms-switchable-group="基本の要素">
+<i data-cms-id="9-1" class="mod-icon_1"></i>
+<h5 data-cms-id="10-1" class="mod-h" contenteditable="true">箇条書き見出し</h5>
+</div>
+<div data-cms-editable-wysiwyg="list" data-cms-id="11-1" class="mod-ul_ver2" data-cms-switchable="true" data-cms-switchable-label="箇条書き" data-cms-switchable-group="基本の要素">
+<div data-cms-id="36-1" class="mod-ul-inner">
+<div data-cms-id="37-1" class="mod-ul-inner2" data-cms-editable="wysiwyg" contenteditable="true">
+<ul>
+<li>ここを書き換えてください</li>
+<li>文字を消したい場合は「BackSpace」キーを押してください</li>
+<li>「Delete」キーを押すと、行ごとなくなる場合があります</li>
+<li>不要な行は、アイコンごと削除してください</li>
+<li>「Enter」キーを押すと行が増えます</li>
+</ul>
+</div>
+</div>
+</div>
+<p data-cms-id="12-1" class="mod-text-list" data-cms-editable="text" contenteditable="true" data-cms-switchable="false" data-cms-switchable-label="箇条書き下説明" data-cms-switchable-group="基本の要素">箇条書きの説明を入力してください（フォントが小さく設定された文章です）</p>
+</div>
+<div data-cms-id="13-1" class="mod-rte_ver2" data-cms-editable="wysiwyg" contenteditable="true" data-cms-switchable="false" data-cms-switchable-label="文章2" data-cms-switchable-group="基本の要素">
+<p>あいうえおかきくけこさしすせそたちつてとなにぬねのはひふへほまみむめもやゃゆゅよらりるれろわ・を・んアイウエオカキクケコサシスセソタチツテトナニヌネノハヒフヘホマミムメモヤャユュヨララリルレロワ・ヲ・ン</p>
+</div>
+<div data-cms-switchable-line="" data-cms-editable-banner="A" data-cms-id="14-1" class="mod-bnr_ver2 ex-align-left" data-cms-switchable="false" data-cms-switchable-label="【左】バナー" data-cms-switchable-group="基本の要素">
+<div data-cms-id="15-1" class="mod-bnr-inner" data-cms-editable="banner">
+<p data-cms-editable="text" contenteditable="true" data-cms-id="16-1">詳細はこちらをクリック</p>
+</div>
+</div>
+<div data-cms-editable-link="B" data-cms-id="17-1" class="mod-link-1st ex-align-left" data-cms-switchable="true" data-cms-switchable-label="【左】誘導リンク（上）" data-cms-switchable-group="基本の要素">
+<div data-cms-id="38-1" class="mod-link-inner" data-cms-editable="banner">
+<p data-cms-editable="text" contenteditable="true" data-cms-id="18-1">詳しくはこちらをクリック</p>
+</div>
+</div>
+<div data-cms-editable-link="B" data-cms-id="19-1" class="mod-link-2nd ex-align-left" data-cms-switchable="false" data-cms-switchable-label="【左】誘導リンク（下）" data-cms-switchable-group="基本の要素">
+<div data-cms-id="39-1" class="mod-link-inner" data-cms-editable="banner">
+<p data-cms-editable="text" contenteditable="true" data-cms-id="20-1">詳しくはこちらをクリック</p>
+</div>
+</div>
+<div data-cms-switchable-line="" data-cms-editable-banner="A" data-cms-id="21-1" class="mod-bnr_ver2 ex-align-center" data-cms-switchable="false" data-cms-switchable-label="【中】バナー" data-cms-switchable-group="基本の要素">
+<div data-cms-id="22-1" class="mod-bnr-inner" data-cms-editable="banner">
+<p data-cms-editable="text" contenteditable="true" data-cms-id="23-1">詳細はこちらをクリック</p>
+</div>
+</div>
+<div data-cms-editable-link="B" data-cms-id="24-1" class="mod-link-1st ex-align-center" data-cms-switchable="false" data-cms-switchable-label="【中】誘導リンク（上）" data-cms-switchable-group="基本の要素">
+<div data-cms-id="40-1" class="mod-link-inner" data-cms-editable="banner">
+<p data-cms-editable="text" contenteditable="true" data-cms-id="25-1">詳しくはこちらをクリック</p>
+</div>
+</div>
+<div data-cms-editable-link="B" data-cms-id="26-1" class="mod-link-2nd ex-align-center" data-cms-switchable="false" data-cms-switchable-label="【中】誘導リンク（下）" data-cms-switchable-group="基本の要素">
+<div data-cms-id="41-1" class="mod-link-inner" data-cms-editable="banner">
+<p data-cms-editable="text" contenteditable="true" data-cms-id="27-1">詳しくはこちらをクリック</p>
+</div>
+</div>
+<div data-cms-switchable-line="" data-cms-editable-banner="A" data-cms-id="28-1" class="mod-bnr_ver2 ex-align-right" data-cms-switchable="false" data-cms-switchable-label="【右】バナー" data-cms-switchable-group="基本の要素">
+<div data-cms-id="29-1" class="mod-bnr-inner" data-cms-editable="banner">
+<p data-cms-editable="text" contenteditable="true" data-cms-id="30-1">詳細はこちらをクリック</p>
+</div>
+</div>
+<div data-cms-editable-link="B" data-cms-id="31-1" class="mod-link-1st ex-align-right" data-cms-switchable="false" data-cms-switchable-label="【右】誘導リンク（上）" data-cms-switchable-group="基本の要素">
+<div data-cms-id="42-1" class="mod-link-inner" data-cms-editable="banner">
+<p data-cms-editable="text" contenteditable="true" data-cms-id="32-1">詳しくはこちらをクリック</p>
+</div>
+</div>
+<div data-cms-editable-link="B" data-cms-id="33-1" class="mod-link-2nd ex-align-right" data-cms-switchable="false" data-cms-switchable-label="【右】誘導リンク（下）" data-cms-switchable-group="基本の要素">
+<div data-cms-id="43-1" class="mod-link-inner" data-cms-editable="banner">
+<p data-cms-editable="text" contenteditable="true" data-cms-id="34-1">詳しくはこちらをクリック</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>

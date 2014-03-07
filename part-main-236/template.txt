@@ -9,9 +9,9 @@
 <div data-cms-id="8" class="mod-rte_ver2" data-cms-editable="wysiwyg" contenteditable="true" data-cms-switchable="false" data-cms-switchable-label="文章（最上部）" data-cms-switchable-group="上部の要素">
 <p>あいうえおかきくけこさしすせそたちつてとなにぬねのはひふへほまみむめもやゃゆゅよらりるれろわ・を・んアイウエオカキクケコサシスセソタチツテトナニヌネノハヒフヘホマミムメモヤャユュヨララリルレロワ・ヲ・ン</p>
 </div>
-<div data-cms-editable-link="B" class="mod-link-2nd ex-align-right" data-cms-switchable="false" data-cms-switchable-label="【右】誘導リンク（下）" data-cms-switchable-group="基本の要素">
-<div class="mod-link-inner" data-cms-editable="banner">
-<p data-cms-editable="text" contenteditable="true">詳しくはこちらをクリック</p>
+<div data-cms-editable-link="B" data-cms-id="10" class="mod-link-2nd ex-align-right" data-cms-switchable="false" data-cms-switchable-label="【右】誘導リンク（下）" data-cms-switchable-group="基本の要素">
+<div data-cms-id="11" class="mod-link-inner" data-cms-editable="banner">
+<p data-cms-editable="text" contenteditable="true" data-cms-id="12">詳しくはこちらをクリック</p>
 </div>
 </div>
 </div>
@@ -94,9 +94,9 @@
 <p data-cms-editable="text" contenteditable="true" data-cms-id="34-<%- step_number %>">詳しくはこちらをクリック</p>
 </div>
 </div>
-<div data-cms-editable-link="B" class="mod-link-2nd ex-align-right" data-cms-switchable="false" data-cms-switchable-label="【右】誘導リンク（下）" data-cms-switchable-group="基本の要素">
-<div class="mod-link-inner" data-cms-editable="banner">
-<p data-cms-editable="text" contenteditable="true">詳しくはこちらをクリック</p>
+<div data-cms-editable-link="B" data-cms-id="44-<%- step_number %>" class="mod-link-2nd ex-align-right" data-cms-switchable="false" data-cms-switchable-label="【右】誘導リンク（下）" data-cms-switchable-group="基本の要素">
+<div data-cms-id="45-<%- step_number %>" class="mod-link-inner" data-cms-editable="banner">
+<p data-cms-editable="text" contenteditable="true" data-cms-id="46-<%- step_number %>">詳しくはこちらをクリック</p>
 </div>
 </div>
 </div>
@@ -180,9 +180,9 @@
 <p data-cms-editable="text" contenteditable="true" data-cms-id="34-1">詳しくはこちらをクリック</p>
 </div>
 </div>
-<div data-cms-editable-link="B" class="mod-link-2nd ex-align-right" data-cms-switchable="false" data-cms-switchable-label="【右】誘導リンク（下）" data-cms-switchable-group="基本の要素">
-<div class="mod-link-inner" data-cms-editable="banner">
-<p data-cms-editable="text" contenteditable="true">詳しくはこちらをクリック</p>
+<div data-cms-editable-link="B" data-cms-id="44-1" class="mod-link-2nd ex-align-right" data-cms-switchable="false" data-cms-switchable-label="【右】誘導リンク（下）" data-cms-switchable-group="基本の要素">
+<div data-cms-id="45-1" class="mod-link-inner" data-cms-editable="banner">
+<p data-cms-editable="text" contenteditable="true" data-cms-id="46-1">詳しくはこちらをクリック</p>
 </div>
 </div>
 </div>

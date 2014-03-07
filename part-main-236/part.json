@@ -3,12 +3,12 @@
   "area": ["main"],
   "dir": [ "/よく使われる部品","/おもな要素で選ぶ/箇条書き" ],
   "order": 2800,
-  "enable": true,
+  "enable": false ,
   "type": false,
   "parts_variation": "part-main-236",
   "sp_view": true ,
   "max_id": 10,
   "max_id_in_step": 44,
   "data-parts-name": "part-main-236",
-  "ver": 12
+  "ver": 13
 }

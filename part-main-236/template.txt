@@ -1,4 +1,4 @@
-﻿<div data-cms-part="step" data-cms-step-max="10" data-cms-id="1" data-parts-name="part-main-236 v12" class="ex-style_01A1 mod-part-list">
+<div data-cms-part="step" data-cms-step-max="10" data-cms-id="1" data-parts-name="part-main-236 v6" class="ex-style_01A1 mod-part-list">
 <div data-cms-id="2" class="mod-box-inner">
 <div data-cms-id="3" class="mod-box-inner2" data-cms-element-group="">
 <div data-cms-id="4" class="mod-set-h2" data-cms-switchable="false" data-cms-switchable-label="セット（最上部）" data-cms-switchable-group="上部の要素" data-cms-element-group="">
